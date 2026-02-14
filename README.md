@@ -57,7 +57,7 @@
 
 <body onclick="changeVibe()">
   <div class="container">
-  <img id="vibeImage" src="img/1.jpeg" alt="vibe image" />
+  <img id="vibeImage" src="ktorc.png" alt="vibe image" />
   <h1 id="phrase">felis 14 de febrero mi princesita <3 </h1>
 </div>
 
@@ -71,7 +71,7 @@
   ];
 
   const images = [
-    "img/1.JPG",
+    "ktorc.png",
   ];
 
   const phraseEl = document.getElementById("phrase");
