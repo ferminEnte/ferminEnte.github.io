@@ -1,7 +1,4 @@
 <html lang="es">
-<audio autoplay loop>
-  <source src="Te amo.mp3">
-</audio>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -14,6 +11,9 @@
     }
 
     body {
+      <audio autoplay loop>
+         <source src="Te amo.mp3">
+      </audio>
       margin: 0;
       min-height: 100vh;
       background: #0049f7;
