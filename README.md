@@ -72,14 +72,6 @@
 
   const images = [
     "img/1.JPG",
-    "img/2.jpeg",
-    "img/3.jpeg",
-    "img/4.jpeg",
-    "img/5.jpeg",
-    "img/6.jpg",
-    "img/7.JPG",
-    "img/8.jpeg"
-
   ];
 
   const phraseEl = document.getElementById("phrase");
