@@ -1,4 +1,7 @@
 <html lang="es">
+<audio autoplay loop>
+  <source src="ruta/a/tu/archivo-de-audio.mp3">
+</audio>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
