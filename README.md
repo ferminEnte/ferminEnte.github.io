@@ -13,7 +13,7 @@
 
     body {
       <audio controls autoplay="true" loop="true"> 
-         <source src="teamo.mp3" type="audio/mpeg"> 
+         <source src="teamo.mp3" type="audio"> 
       </audio>
       margin: 0;
       min-height: 100vh;
