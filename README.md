@@ -64,13 +64,10 @@
 
 <script>
   const phrases = [
-    "Yo conozco tu locura porque también es la mía\n\n Somos locas rebeldes\nlocas del estar vivas\nlocas maravillosas\nestrafalarias, floridas",
-    "Te amo amora",
-    "Feliz 14 de febrero guapa👩🏻‍❤️‍💋‍👩🏽",
-    "´Después de todo, qué gusto estar vivas, y juntas´",
-    "Te quiero con la eternidad que concede la brevedad de un momento inolvidable.",
-    "¡Ay, Amora! No cabe duda: ¡el amor es una cosa esplendorosa!",
-    "Eres mi 11:11 de toda la vida"
+    "te amo demasiado avrii",
+    "felis 14 divina",
+    "te amo y te voy a amar por siempre, eres el amor de mi vida",
+    "eres mi 11:11 para toda la vida"
   ];
 
   const images = [
