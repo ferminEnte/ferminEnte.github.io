@@ -13,7 +13,7 @@
     body {
       margin: 0;
       min-height: 100vh;
-      background: #0049F7;
+      background: #de9c20;
       display: flex;
       align-items: center;
       justify-content: center;
