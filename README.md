@@ -58,7 +58,7 @@
 <body onclick="changeVibe()">
   <div class="container">
   <img id="vibeImage" src="img/1.jpeg" alt="vibe image" />
-  <h1 id="phrase">FELIZ 14 DE FEBRERO AMORA <3 </h1>
+  <h1 id="phrase">felis 14 de febrero mi princesita <3 </h1>
 </div>
 
 
