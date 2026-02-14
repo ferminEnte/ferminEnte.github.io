@@ -12,7 +12,7 @@
     }
 
     body {
-      <audio src="Te amo.mp3" autoplay="true" loop="true"></audio>
+      <audio src="Te amo.mp3" controls autoplay="true" loop="true"> </audio>
       margin: 0;
       min-height: 100vh;
       background: #0049f7;
