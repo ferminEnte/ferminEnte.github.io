@@ -13,13 +13,13 @@
     body {
       margin: 0;
       min-height: 100vh;
-      background: #de9c20;
+      background: #0049f7;
       display: flex;
       align-items: center;
       justify-content: center;
       font-family: "Tahoma";
       font-style: normal;
-      color: #FFA6E7;
+      color: #f4cbe5;
       cursor: pointer;
       padding: 20px;
     }
