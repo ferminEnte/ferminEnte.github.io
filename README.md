@@ -1,10 +1,10 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
    <link rel="icon" type="image/png" href="img/1.JPG">
-  <title>sanvalentinjjj</title>
+  <title>unclick+</title>
 
   <style>
     * {
@@ -12,18 +12,15 @@
     }
 
     body {
-      <audio controls autoplay="true" loop="true"> 
-         <source src="teamo.mp3" type="audio"> 
-      </audio>
       margin: 0;
       min-height: 100vh;
-      background: #0049f7;
+      background: #0049F7;
       display: flex;
       align-items: center;
       justify-content: center;
       font-family: "Tahoma";
       font-style: normal;
-      color: #f4cbe5;
+      color: #FFA6E7;
       cursor: pointer;
       padding: 20px;
     }
@@ -61,23 +58,32 @@
 
 <body onclick="changeVibe()">
   <div class="container">
-  <img id="vibeImage" src="ktorc.png" alt="vibe image" />
-  <h1 id="phrase">felis 14 de febrero mi princesita <3 </h1>
+  <img id="vibeImage" src="img/1.jpeg" alt="vibe image" />
+  <h1 id="phrase">FELIZ 14 DE FEBRERO AMORA <3 </h1>
 </div>
 
 
 <script>
   const phrases = [
-    "te amo demasiado avrii",
-    "felis 14 divina",
-    "te amo y te voy a amar por siempre, eres el amor de mi vida",
-    "eres mi 11:11 para toda la vida",
-    "El Destino, hechizado, te sigue tus pisadas; tú siembras a tu paso desgracias y alegrías, tú lo gobiernas todo sin responder de nada."
-    "ha pasado ya medio año y sigo queriendote y amandote como la primera vez, aún recuerdo la primera vez que te ví, me         pareciste tan hermosa que te presumí con el único amigo que tenía en ese momento, y al pasar los días te veo incluso        más preciosa que nunca, eres y siempre serás el amor de mi vida avri. quiero estar contigo para siempre"
+    "Yo conozco tu locura porque también es la mía\n\n Somos locas rebeldes\nlocas del estar vivas\nlocas maravillosas\nestrafalarias, floridas",
+    "Te amo amora",
+    "Feliz 14 de febrero guapa👩🏻‍❤️‍💋‍👩🏽",
+    "´Después de todo, qué gusto estar vivas, y juntas´",
+    "Te quiero con la eternidad que concede la brevedad de un momento inolvidable.",
+    "¡Ay, Amora! No cabe duda: ¡el amor es una cosa esplendorosa!",
+    "Eres mi 11:11 de toda la vida"
   ];
 
   const images = [
-    "ktorc.png",
+    "img/1.JPG",
+    "img/2.jpeg",
+    "img/3.jpeg",
+    "img/4.jpeg",
+    "img/5.jpeg",
+    "img/6.jpg",
+    "img/7.JPG",
+    "img/8.jpeg"
+
   ];
 
   const phraseEl = document.getElementById("phrase");
