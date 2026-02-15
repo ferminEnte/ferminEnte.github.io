@@ -75,11 +75,6 @@
 
   const images = [
    "avrii1.png",
-   "avrii2.png",
-   "avrii3.png",
-   "avrii4.png",
-   "avrii5.png",
-   "avrii6.png",
   ];
 
   const phraseEl = document.getElementById("phrase");
