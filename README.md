@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-   <link rel="icon" type="image/png" href="avrii.png">
+   <link rel="icon" type="image/png" href="avrii1.png">
   <title>unclick+</title>
 
   <style>
@@ -58,7 +58,7 @@
 
 <body onclick="changeVibe()">
   <div class="container">
-  <img id="vibeImage" src="avrii.png" alt="vibe image" />
+  <img id="vibeImage" src="avrii1.png" alt="vibe image" />
   <h1 id="phrase">felis 14 de febrero mi princesita <3 </h1>
 </div>
 
@@ -74,7 +74,6 @@
   ];
 
   const images = [
-   "avrii.png",
    "avrii1.png",
    "avrii2.png",
    "avrii3.png",
