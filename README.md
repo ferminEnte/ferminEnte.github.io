@@ -58,7 +58,7 @@
 
 <body onclick="changeVibe()">
   <div class="container">
-  <img id="vibeImage" src="img/1.jpeg" alt="vibe image" />
+  <img id="vibeImage" src="avrii1.png" alt="vibe image" />
   <h1 id="phrase"> felis 14 de febrero mi princesita <3  </h1>
 </div>
 
@@ -72,14 +72,13 @@
   ];
 
   const images = [
-    "img/1.JPG",
-    "img/2.jpeg",
-    "img/3.jpeg",
-    "img/4.jpeg",
-    "img/5.jpeg",
-    "img/6.jpg",
-    "img/7.JPG",
-    "img/8.jpeg"
+    "avrii1.png",
+    "avrii2.png",
+    "avrii3.png",
+    "avrii4.png",
+    "avrii5.png",
+    "avrii6.png",
+    "avrii7.png",
 
   ];
 
