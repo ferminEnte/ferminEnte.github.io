@@ -71,7 +71,11 @@
     "te amo demasiado avrii",
     "felis 14 divina",
     "te amo y te voy a amar por siempre, eres el amor de mi vida",
-    "eres mi 11:11 para toda la vida"
+    "eres mi 11:11 para toda la vida",
+    "El Destino, hechizado, te sigue tus pisadas;
+    tú siembras a tu paso desgracias y alegrías,
+    tú lo gobiernas todo sin responder de nada."
+    "ha pasado ya medio año y sigo queriendote y amandote como la primera vez, aún recuerdo la primera vez que te ví, me         pareciste tan hermosa que te presumí con el único amigo que tenía en ese momento, y al pasar los días te veo incluso        más preciosa que nunca, eres y siempre serás el amor de mi vida avri. quiero estar contigo para siempre"
   ];
 
   const images = [
