@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -20,7 +20,7 @@
       justify-content: center;
       font-family: "Tahoma";
       font-style: normal;
-      color: #FFA6E7;
+      color: #f4cbe5;
       cursor: pointer;
       padding: 20px;
     }
