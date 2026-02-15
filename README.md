@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
@@ -74,13 +74,13 @@
   ];
 
   const images = [
-   "avrii.png"
-   "avrii1.png"
-   "avrii2.png"
-   "avrii3.png"
-   "avrii4.png"
-   "avrii5.png"
-   "avrii6.png"
+   "avrii.png",
+   "avrii1.png",
+   "avrii2.png",
+   "avrii3.png",
+   "avrii4.png",
+   "avrii5.png",
+   "avrii6.png",
   ];
 
   const phraseEl = document.getElementById("phrase");
