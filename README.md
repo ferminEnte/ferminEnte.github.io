@@ -65,8 +65,8 @@
 
 <script>
   const phrases = [
-   "te amo demasiado avrii",
-    "felis 14 divina",
+   "ha pasado ya seis meses y sigo queriendote y amandote como la primera vez, aun recuerdo la primera vez que te vi, me pareciste tan hermosa que te presumi con el unico amigo que tenia en ese momento, y al pasar los dias te veo incluso mas preciosa que nunca, eres y siempre seras el amor de mi vida avri. quiero estar contigo para siempre",
+    "El Destino, hechizado, te sigue tus pisadas; tu siembras a tu paso desgracias y alegrias, tu lo gobiernas todo sin responder de nada.",
     "te amo y te voy a amar por siempre, eres el amor de mi vida",
     "eres mi 11:11 para toda la vida",
   ];
